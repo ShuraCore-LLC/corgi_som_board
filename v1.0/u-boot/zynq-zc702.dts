@@ -16,12 +16,12 @@
 		ethernet1 = &gem1;
 		ethernet2 = &axi_ethernet_0;
 		ethernet3 = &axi_ethernet_1;
-		i2c0 = &i2c1;
+		i2c0 = &i2c0;
+		i2c1 = &i2c1;
 		serial0 = &uart0;
 		serial1 = &uart1;
 		spi0 = &qspi;
-		spi1 = &spi0;
-		spi2 = &spi1;
+		spi1 = &spi1;
 	};
 
 	memory@0 {
