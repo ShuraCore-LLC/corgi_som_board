@@ -112,7 +112,6 @@ BR2_PACKAGE_STRESS_NG=y
 # clpeak needs an OpenCL provider, a toolchain w/ C++, gcc >= 4.8
 #
 BR2_PACKAGE_COREMARK=y
-BR2_PACKAGE_COREMARK_PRO=y
 
 #
 # Network
